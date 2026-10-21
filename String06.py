@@ -1,10 +1,4 @@
-def main(s):
-    """
-    A variable of type str is given. Check that it consists only of numbers.
-    Args:
-        s: str
-    Returns:
-        bool: answer
-    """
-    
-    return
+a="12345"
+b ="2022ABC"
+print(a.isdigit())
+print(b.isdidgit()) 

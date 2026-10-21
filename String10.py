@@ -1,10 +1,4 @@
-def main(s):
-    """
-    A string containing the letter "x" is given. Find the index of the letter "x" in this variable.
-    Args:
-        s: str
-    Returns:
-        str: answer
-    """
-    
-    return
+a="Mobile tpye xiomi"
+b ="iphone x is a mobile"
+print(a.index('x'))
+print(b.index('x')) 
